@@ -1,0 +1,9 @@
+steps: 1000
+learn_sigma: True
+sigma_small: False
+noise_schedule: linear
+use_kl: False
+predict_xstart: True
+timestep_respacing: [250]
+rescale_timesteps: True
+rescale_learned_sigmas: True
